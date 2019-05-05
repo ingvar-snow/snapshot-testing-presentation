@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getting counters for mobile platform 1`] = `
+Array [
+  Object {
+    "id": "22222222",
+    "platform": "mobile",
+    "type": "yandex-metrika",
+    "webvisor": true,
+  },
+  Object {
+    "id": "33333333",
+    "platform": "mobile",
+    "type": "yandex-metrika",
+    "webvisor": false,
+  },
+]
+`;

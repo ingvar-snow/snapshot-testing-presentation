@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`trying to break jest 1`] = `
+Object {
+  "pointerToObj1": Object {
+    "pointerToObj2": [Circular],
+  },
+}
+`;
