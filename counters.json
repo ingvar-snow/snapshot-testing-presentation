@@ -1,0 +1,26 @@
+
+
+[
+	{
+		"type": "yandex-metrika",
+		"id": "11111111",
+		"platform": "desktop",
+		"webvisor": true
+	},
+	{
+		"type": "yandex-metrika",
+		"id": "22222222",
+		"platform": "mobile",
+		"webvisor": true
+	},
+	{
+		"type": "yandex-metrika",
+		"id": "33333333",
+		"platform": "mobile",
+		"webvisor": false
+	}
+]
+
+
+
+
